@@ -1,0 +1,10 @@
+{
+  "name": "Transform Frame to Image",
+  "id": "1050133606112987913",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
